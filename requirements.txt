@@ -4,3 +4,5 @@ streamlit
 numpy
 xgboost
 joblib
+category_encoders
+XGBRegressor
